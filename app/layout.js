@@ -11,7 +11,7 @@ const bricolage_grotesque = Bricolage_Grotesque({
 });
 
 export const metadata = {
-  title: "MusicHub",
+  title: "MusicXD",
   description: "Open-Source music streamer.",
   icons: "/favi-icon.jpg",
   manifest: "/manifest.json",
